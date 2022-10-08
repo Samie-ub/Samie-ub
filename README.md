@@ -5,7 +5,7 @@ I'm Marton, a 18 years old web developer from Hungary.
 
 👥 Core team member at @nestdotland
 
-Skills
+#Skills
 👨‍💻 TypeScript, JavaScript, PHP, C#
 ⚙️ React, Svelte, Vue
 👁️ SASS, CSS, Stylus

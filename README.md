@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Samie a Programmer.
+
+
 <!--
 **Samie-ub/Samie-ub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

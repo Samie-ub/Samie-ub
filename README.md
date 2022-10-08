@@ -1,11 +1,37 @@
-### Hi there 👋
+Hey! 👋
+I'm Marton, a 18 years old web developer from Hungary.
 
-I'm Samie a Programmer.
+🧭 Founder at @th8ta and @useverto
 
-# WEBSITE DEVELOPER
-# BLOCKCHAIN DEVELOPER
+👥 Core team member at @nestdotland
 
-Feel free to use my repositories.
+Skills
+👨‍💻 TypeScript, JavaScript, PHP, C#
+⚙️ React, Svelte, Vue
+👁️ SASS, CSS, Stylus
+💽 MySQL, SQL, Mongo
+Contact
+marton.lederer.hu
+@martonlederer on Twitter
+@martonlederer on Instagram
+Marton#6513 on Discord
+About
+Please star too, don't just fork
+
+Resources
+ Readme
+Stars
+ 38 stars
+Watchers
+ 1 watching
+Forks
+ 189 forks
+Releases
+No releases published
+Packages
+No packages published
+Footer
+© 2022 GitHub, Inc.
 
 
 

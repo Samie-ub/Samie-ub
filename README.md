@@ -12,8 +12,6 @@ I'm a UX\UI designer, Frontend and Backend Developer, Blockchain<br>developer, a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samie-ub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samie-ub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/SamieUl08284274)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Samie-ub&icon=0&color=0)](https://visitcount.itsvg.in)

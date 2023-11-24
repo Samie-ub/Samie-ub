@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a UX\UI designer, Frontend and Backend Developer, Blockchain<br>developer, and a Native Desktop Application Developer.
+I'm a Frontend and Backend Developer, Blockchain<br>developer, and a Native Desktop Application Developer.
 
 
 ## 🌐 Socials:

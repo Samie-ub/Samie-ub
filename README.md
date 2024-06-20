@@ -14,6 +14,8 @@ I'm a Frontend and Backend Developer, Blockchain<br>developer, and a Native Desk
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samie-ub&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Samie-ub&label=Views&color=7&icon=6&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
